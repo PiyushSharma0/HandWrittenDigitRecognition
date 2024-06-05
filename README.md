@@ -49,7 +49,7 @@ The MNIST dataset is used for training and testing the model. It contains 70,000
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/handwritten-digit-recognition.git
+    git clone https://github.com/PiyushSharma0/handwritten-digit-recognition.git
     cd handwritten-digit-recognition
     ```
 
@@ -74,3 +74,4 @@ Below are some example outputs from the model:
 ![Example 1](images/0.png)
 ![Example 2](images/4.png)
 ![Example 3](images/7.png)
+![Example 4](images/5.png)
