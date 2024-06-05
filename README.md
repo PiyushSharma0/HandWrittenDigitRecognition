@@ -31,6 +31,10 @@ The model used in this project is a Convolutional Neural Network (CNN) implement
 
 The model is trained using the Adam optimizer and categorical cross-entropy loss.
 
+## Dataset
+
+The MNIST dataset is used for training and testing the model. It contains 70,000 images of handwritten digits (60,000 for training and 10,000 for testing).
+
 ## Confusion Matrix
 
 ![Confusion Matrix](model/ConfMatrix.png)
@@ -38,10 +42,6 @@ The model is trained using the Adam optimizer and categorical cross-entropy loss
 ## Loss function Over Epochs
 
 ![Loss function Over Epochs](model/LossFuncOverEpochs.png)
-
-## Dataset
-
-The MNIST dataset is used for training and testing the model. It contains 70,000 images of handwritten digits (60,000 for training and 10,000 for testing).
 
 ## Requirements
 
