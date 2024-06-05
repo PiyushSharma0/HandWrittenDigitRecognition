@@ -75,3 +75,7 @@ Below are some example outputs from the model:
 ![Example 2](images/4.png)
 ![Example 3](images/7.png)
 ![Example 4](images/5.png)
+
+## Confusion Matrix
+
+!(model/ConfMatrix.png)
