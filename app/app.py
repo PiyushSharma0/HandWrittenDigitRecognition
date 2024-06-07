@@ -60,8 +60,8 @@ class DigitRecognizerApp:
         x1 = x + self.canvas.winfo_width()
         y1 = y + self.canvas.winfo_height()
         raw_data = ImageGrab.grab().crop((x, y, x1, y1))
-        img = raw_data.resize((28, 28))  # Resize to match model input size
-        img = img.convert('L')  # Convert to grayscale
+        img = raw_data.resize((28, 28))
+        img = img.convert('L')
         img = np.array(img)
         return img
 
