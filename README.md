@@ -37,11 +37,11 @@ The MNIST dataset is used for training and testing the model. It contains 70,000
 
 ## Confusion Matrix
 
-![Confusion Matrix](model/ConfMatrix.png)
+![Confusion Matrix](images/ConfMatrix.png)
 
 ## Loss function Over Epochs
 
-![Loss function Over Epochs](model/LossFuncOverEpochs.png)
+![Loss function Over Epochs](images/LossFuncOverEpochs.png)
 
 ## Requirements
 
